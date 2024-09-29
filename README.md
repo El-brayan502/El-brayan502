@@ -21,9 +21,10 @@
 </div>
 <h2 align="center"> MI PROYECTO </h2>
 
-<a href="https://github.com/El-brayan502/Broly-bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-Diego&repo=BrolyBot-MD&theme=merko)</a>
+<a href="https://github.com/El-brayan502/Broly-bot-MD">
+    ![github card](https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=Broly-bot-MD&theme=merko)
+</a>
 
-<h2 align="center"> PROYECTOS DE COLABORACIÓN </h2>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=footer"/>
+
