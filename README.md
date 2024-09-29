@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA52F6&height=120&section=header"/>
 
 ## 👾 Bienvenido a mi perfil. 🐉
-
-<p align="center"><img title="Yaemori" src="https://qu.ax/XfAM.jpg"></p>
+<p align="center"><img title="Broly"src="https://i.ibb.co/0JPshvj/file.jpg"></p>
 
 <a href="https://www.youtube.com/@OfcDiego" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 <a href="https://www.facebook.com/profile.php?id=100074741175505&mibextid=ZbWKwL"/>
