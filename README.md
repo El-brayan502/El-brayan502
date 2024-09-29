@@ -22,7 +22,7 @@
 <a href="https://github.com/El-brayan502/Broly-bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=Broly-bot-MD&theme=merko)
 </a>
 
-<a href="https://github.com/El-brayan502/KenjiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=Broly-bot-MD&theme=merko)
+<a href="https://github.com/El-brayan502/KenjiBot-MD-">![github card](https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=KenjiBot-MD-&theme=merko)
 </a>
 
 
