@@ -4,7 +4,7 @@
 <a href="http://wa.me/50231458537" target="blank"><img src="https://img.shields.io/badge/fantom-30302f?style=flat&logo=whatsapp" /></a>
 
 ## **FANTOM330**
-![quieto ami niña Valeria _3](https://h.uguu.se/XRfAZVSn.gif)
+![quieto ami niña Valeria _3](https://f.uguu.se/dCcNeStq.gif)
 
 ### *Bʀᴀʏᴀᴍ X ᴠᴀʟᴇʀɪᴀ*
 
