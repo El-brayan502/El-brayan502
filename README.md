@@ -38,16 +38,6 @@
 
 ### 🧪 Lenguajes que uso
 
-```txt
-🟨 JavaScript       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 91.17%
-🔵 TypeScript       ▓▓                5.59%
-🐍 Python           ▓                 2.97%
-🟢 Shell            ░                 0.25%
-🔴 HTML             ░                 0.02%
-⚫ Dockerfile        ░                 0.01%
-
----
-
 <p align="center">
   💌 *Brayam x Clara* 💌
 </p>
