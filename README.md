@@ -46,6 +46,7 @@
 🔴 HTML             ░                 0.02%
 ⚫ Dockerfile        ░                 0.01%
 
+---
 
 <p align="center">
   💌 *Brayam x Clara* 💌
