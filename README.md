@@ -36,7 +36,7 @@
 
 ---
 
-### 🧪 Lenguajes que uso
+### 
 
 <p align="center">
   💌 *Brayam x Clara* 💌
