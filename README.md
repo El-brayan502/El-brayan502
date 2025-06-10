@@ -65,10 +65,6 @@
   No sé qué haría sin ti, pero sé que contigo puedo hacerlo todo.
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/B2SW2EqG6akAAAAC/anime-couple-love.gif" width="250">
-</p>
-
 ---
 
 <p align="center">
