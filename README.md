@@ -39,7 +39,7 @@
 ### 
 
 <p align="center">
-  💌 *Brayam x Clara* 💌
+  💌 *Brayan x Clara* 💌
 </p>
 
 <h1 align="center">🌸 Quiero a mi Novia 🌸</h1>
@@ -72,6 +72,6 @@
 ---
 
 <p align="center">
-  <strong>📝 Brayam para clarita</strong><br>
+  <strong>📝 Brayan para clarita</strong><br>
   <em>Siempre tuyo 💌</em>
 </p>
