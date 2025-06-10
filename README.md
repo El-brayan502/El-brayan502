@@ -39,7 +39,7 @@
 ### 
 
 <p align="center">
-  💌 *Brayan x Clara* 💌
+  *💌 Brayan x Clara 💌*
 </p>
 
 <h1 align="center">🌸 Quiero a mi Novia 🌸</h1>
