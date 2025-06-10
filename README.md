@@ -14,7 +14,7 @@
 
 > Aquí te dejo mi número por si quieres escribirme 😉
 
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-fantom-green?style=for-the-badge&logo=whatsapp)](https://wa.me/521XXXXXXXXXX)
+[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-fantom-green?style=for-the-badge&logo=whatsapp)](https://wa.me/50231458537)
 
 ---
 
