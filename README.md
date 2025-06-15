@@ -39,9 +39,6 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=El-brayan502&theme=react-dark)
 
 
-
---
-
 ### 
 
 <p align="center">
