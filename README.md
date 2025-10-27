@@ -1,8 +1,4 @@
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=El-brayan502.El-brayan502)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge)
-
-```js
 // El-brayan502 — just doing things that feel right
 class Me {
   constructor() {
@@ -32,9 +28,7 @@ new Me().vibe();
 
 🖤 What I Use
 
-          
-
-
+            
 ---
 
 🩸 GitHub Stats
@@ -57,4 +51,3 @@ new Me().vibe();
 
 > I don’t chase hype.
 Just doing my thing in silence.
-
