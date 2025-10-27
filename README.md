@@ -1,15 +1,15 @@
-# 🌒 Hey there
+# 🌒 Hola 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=naruyaizumi.naruyaizumi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=El-brayan502.El-brayan502)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge)
 
 ```js
-// Naruya Izumi — just doing things that feel right
+// Brayan uchiha — simplemente haciendo cosas que se sienten bien 
 class Me {
   constructor() {
-    this.name = "Naruya Izumi";
+    this.name = "BrayanX330";
     this.age = 21;
-    this.birthday = "18 September 2004";
+    this.birthday = "31 May  2007";
     this.hobbies = ["sleeping", "anime", "pixel games", "nature"];
     this.reasonToCode = "because I was bored.";
   }
@@ -25,11 +25,11 @@ new Me().vibe();
 ## 🩶 Projects
 
 <p align="center">
-  <a href="https://github.com/naruyaizumi/liora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naruyaizumi&repo=liora&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=222" width="45%" />
+  <a href="https://github.com/El-brayan502/NagiBotV3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=liora&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=222" width="45%" />
   </a>
-  <a href="https://github.com/naruyaizumi/liora-lib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naruyaizumi&repo=liora-lib&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=222" width="45%" />
+  <a href="https://github.com/El-brayan502/NagiBotV3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=NagiBotV3-lib&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=222" width="45%" />
   </a>
 </p>
 
@@ -56,8 +56,8 @@ new Me().vibe();
 ## 🩸 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/naruyaizumi">
-    <img src="https://github-readme-stats.vercel.app/api?username=naruyaizumi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FF2E63" width="80%" />
+  <a href="https://github.com/El-brayan502">
+    <img src="https://github-readme-stats.vercel.app/api?username=El-brayan502&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FF2E63" width="80%" />
   </a>
 </p>
 
@@ -66,8 +66,8 @@ new Me().vibe();
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=naruyaizumi&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10">
-    <img src="https://github-profile-trophy.vercel.app/?username=naruyaizumi&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" width="90%" />
+  <a href="https://github-profile-trophy.vercel.app/?username=El-brayan502&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10">
+    <img src="https://github-profile-trophy.vercel.app/?username=El-brayan502&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" width="90%" />
   </a>
 </p>
 
