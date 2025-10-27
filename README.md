@@ -7,9 +7,9 @@
 // BrayanX330 — just doing things that feel right
 class Me {
   constructor() {
-    this.name = "Naruya Izumi";
+    this.name = "BrayanX330";
     this.age = 21;
-    this.birthday = "18 September 2004";
+    this.birthday = "31 May 20011";
     this.hobbies = ["sleeping", "anime", "pixel games", "nature"];
     this.reasonToCode = "because I was bored.";
   }
