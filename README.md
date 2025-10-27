@@ -63,15 +63,5 @@ new Me().vibe();
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=El-brayan502&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10">
-    <img src="https://github-profile-trophy.vercel.app/?username=El-brayan502&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" width="90%" />
-  </a>
-</p>
-
----
-
 > I don’t chase hype.  
 > Just doing my thing in silence.
