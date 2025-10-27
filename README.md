@@ -29,7 +29,7 @@ new Me().vibe();
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=NagiBotV3&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=222" width="45%" />
   </a>
   <a href="https://github.com/El-brayan502/NagiBotV3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=NagiBotV3-lib&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=222" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=Broly-bot-MD&theme=dark&bg_color=0A0A0A&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF&border_color=222" width="45%" />
   </a>
 </p>
 
