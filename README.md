@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## **Tech Stack**
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## *My Stats*
+## **My Stats**
 
 <div align="center">
 
