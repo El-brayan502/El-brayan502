@@ -19,13 +19,12 @@
 
 ## *Tech Stack*
 
+
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Baileys](https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
-
+  <h3>💻 Tech Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,mysql,mongo,docker,git,vscode" />
+  </a>
 </div>
 
 ---
@@ -43,15 +42,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=El-brayan502&theme=dark&hide_border=true" />
 
 <br><br>
-
----
-
-<div align="center">
-  <h3>💻 Tech Stack</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,mysql,mongo,docker,git,vscode" />
-  </a>
-</div>
 
 ---
 
