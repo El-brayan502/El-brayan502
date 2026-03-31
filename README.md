@@ -1,5 +1,3 @@
-
-<!-- ⚡ Animación de texto -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mi+nombre+es+Brayan;Desarrollador+de+Bots;Amante+del+JavaScript;Siempre+aprendiendo+nuevas+cosas" />
 </div>
@@ -19,7 +17,7 @@
 
 ---
 
-## **Tech Stack**
+## *Tech Stack*
 
 <div align="center">
 
@@ -32,7 +30,7 @@
 
 ---
 
-## **My Stats**
+## *My Stats*
 
 <div align="center">
 
