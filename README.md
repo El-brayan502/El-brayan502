@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Neji Otsutsuki
 
-<!-- 🔥 Banner PRO (no se rompe) -->
+<!-- ⚡ Animación de texto -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=200&section=header&text=Neji%20Otsutsuki%20%7C%20El-brayan502&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mi+nombre+es+Brayan;Desarrollador+de+Bots;Amante+del+JavaScript;Siempre+aprendiendo+nuevas+cosas" />
 </div>
 
 ---
@@ -11,13 +10,6 @@
   <a href="https://github.com/hurtki/github-banners" target="_blank">
     <img src="https://api.bnrs.dev/banners/El-brayan502-dark?a=xnte65" alt="Banner" />
   </a>
-</div>
-
----
-
-<!-- ⚡ Animación de texto -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Mi+nombre+es+Brayan;Desarrollador+de+Bots;Amante+del+JavaScript;Siempre+aprendiendo+nuevas+cosas" />
 </div>
 
 ---
