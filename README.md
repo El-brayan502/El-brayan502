@@ -1,40 +1,39 @@
-# 👋 Hey, I'm Neji Otsutsuki
+# 👋 Hi, I'm Neji Otsutsuki
 
 <div align="center">
-  <a href="https://github.com/hurtki/github-banners" target="_blank">
-    <img src="https://api.bnrs.dev/banners/El-brayan502-dark?a=92kd7s" alt="Banner" />
-  </a>
+  <img src="https://api.bnrs.dev/banners/El-brayan502-dark?a=92kd7s" alt="Banner" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
-💡 Passionate developer focused on:
+I'm a passionate developer focused on building efficient, scalable, and creative solutions.
 
-- 🌐 Web Development  
-- 🎮 Game Development  
-- 🔌 API Integrations  
+- 💻 Specialized in JavaScript & Node.js  
+- 🔌 Experience building APIs and automation systems  
+- 🤖 WhatsApp bot development (Baileys)  
+- ⚡ Focused on performance, clean code, and usability  
 
-⚡ I love building bots, APIs, and automation tools.  
-🧠 Always learning and improving every day.
+I enjoy turning ideas into real-world applications and constantly improving my skills.
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -44,18 +43,34 @@
 
 ---
 
-## ⚡ Extras
+## 🧠 Skills
 
-- 🧠 Constantly learning new technologies  
-- 🛠️ Building bots, APIs & automation tools  
-- 🤝 Open to collaborations  
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/El-brayan502
+- API Development  
+- Web Scraping  
+- Automation Scripts  
+- Bot Development  
+- Problem Solving  
 
 ---
 
-⭐ **If you like my work, drop a star ⭐ and follow me!**
+## 📌 Current Focus
+
+- 🔥 Improving backend development skills  
+- ⚡ Building better and faster bots  
+- 🌐 Expanding API projects  
+
+---
+
+## 🤝 Contact
+
+- GitHub: https://github.com/El-brayan502  
+
+---
+
+## ⚖️ License
+
+This project and others are available under the MIT License.
+
+---
+
+⭐ **Feel free to explore my repositories and support with a star!**
