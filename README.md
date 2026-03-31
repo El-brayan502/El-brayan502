@@ -1,8 +1,8 @@
-# 👋 Hey, I'm FlowFalcon
+# 👋 Hey, I'm Neji Otsutsuki
 
 <div align="center">
   <a href="https://github.com/hurtki/github-banners" target="_blank">
-    <img src="https://api.bnrs.dev/banners/FlowFalcon-dark?a=j8yh98" alt="Banner" />
+    <img src="https://api.bnrs.dev/banners/El-brayan502?a=92kd7s" alt="Banner" />
   </a>
 </div>
 
@@ -11,11 +11,13 @@
 ## 🚀 About Me
 
 💡 Passionate developer focused on:
+
 - 🌐 Web Development  
 - 🎮 Game Development  
 - 🔌 API Integrations  
 
-I love building interactive experiences, exploring new technologies, and sharing knowledge with the community.
+⚡ I love building powerful projects, automations, and creative tools.  
+🧠 Always learning and improving my skills every day.
 
 ---
 
@@ -36,7 +38,7 @@ I love building interactive experiences, exploring new technologies, and sharing
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=FlowFalcon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NejiOtsutsuki&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -44,16 +46,16 @@ I love building interactive experiences, exploring new technologies, and sharing
 
 ## ⚡ Extras
 
-- 🧠 Always learning new things  
-- 🛠️ Building useful and fun projects  
-- 🤝 Open to collaborations  
+- 🧠 Constantly learning new technologies  
+- 🛠️ Building bots, APIs & automation tools  
+- 🤝 Open to collaborations and projects  
 
 ---
 
 ## 🌐 Connect With Me
 
-> (Aquí puedes agregar tus redes si quieres)
+> (Agrega aquí tus redes sociales si quieres)
 
 ---
 
-⭐ **If you like my work, consider giving a star to my projects!**
+⭐ **If you like my work, drop a star ⭐ and follow me!**
