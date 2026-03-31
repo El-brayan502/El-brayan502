@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/hurtki/github-banners" target="_blank">
-    <img src="https://api.bnrs.dev/banners/El-brayan502?a=92kd7s" alt="Banner" />
+    <img src="https://api.bnrs.dev/banners/El-brayan502-dark?a=92kd7s" alt="Banner" />
   </a>
 </div>
 
@@ -16,8 +16,8 @@
 - 🎮 Game Development  
 - 🔌 API Integrations  
 
-⚡ I love building powerful projects, automations, and creative tools.  
-🧠 Always learning and improving my skills every day.
+⚡ I love building bots, APIs, and automation tools.  
+🧠 Always learning and improving every day.
 
 ---
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=NejiOtsutsuki&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=El-brayan502&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -48,13 +48,13 @@
 
 - 🧠 Constantly learning new technologies  
 - 🛠️ Building bots, APIs & automation tools  
-- 🤝 Open to collaborations and projects  
+- 🤝 Open to collaborations  
 
 ---
 
 ## 🌐 Connect With Me
 
-> (Agrega aquí tus redes sociales si quieres)
+- GitHub: https://github.com/El-brayan502
 
 ---
 
