@@ -20,7 +20,6 @@
 ## *Tech Stack*
 
 <div align="center">
-  <h3>💻 Tech Stack</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,go,nodejs,mysql,mongo,docker,git,vscode" />
   </a>
